@@ -3,7 +3,7 @@
     --backgrond-color:#162938;
 }
 body{
-    background: url(/backgrond.jpg);
+    background: url(backgrond.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
